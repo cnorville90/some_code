@@ -5,4 +5,4 @@ echo "$NUMBER"
 
 echo "this was run automagically"
 
-echo "And... I'm Rick James Bitch!!"
+echo "And... I'm Rick James Bitch!!!"
